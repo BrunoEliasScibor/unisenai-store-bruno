@@ -18,7 +18,7 @@ const products = [
     { id: 0, name: "Notebook Pro", price: 5000.00, image: "img/notebook-pro.jpg" },
     { id: 1, name: "Smartphone 5G", price: 3000.00, image: "img/smartphone-5g.jpg" },
     { id: 2, name: "Headphone", price: 500.00, image: "img/headphone.jpg" },
-    { id: 3, nome: "Mouse Gamer", price: 250.00, image: "img/mouse-gamer.jpg"}
+    { id: 3, name: "Mouse Gamer", price: 250.00, image: "img/mouse-gamer.jpg" } 
 ];
 
 // Vetor que armazena os itens do carrinho.
